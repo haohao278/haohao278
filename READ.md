@@ -198,22 +198,22 @@
         <!-- Thư viện ảnh -->
         <section class="photo-grid">
             <!-- Ảnh 1 -->
-            <div class="photo-item" data-aos="fade-up">
+            <div class="1.jpg"fade-up">
                 <img src="https://picsum.photos/400/600?random=1" alt="Ảnh 1"> <!-- THAY LINK ẢNH TẠI ĐÂY -->
                 <div class="photo-overlay"><h3>Rạng rỡ ✨</h3></div>
             </div>
             <!-- Ảnh 2 -->
-            <div class="photo-item" data-aos="fade-up" data-aos-delay="100">
+            <div class="2.jpg" data-aos-delay="100">
                 <img src="https://picsum.photos/400/600?random=2" alt="Ảnh 2"> <!-- THAY LINK ẢNH TẠI ĐÂY -->
                 <div class="photo-overlay"><h3>Xinh đẹp 🌸</h3></div>
             </div>
             <!-- Ảnh 3 -->
-            <div class="photo-item" data-aos="fade-up" data-aos-delay="200">
+            <div class="3.jpg" data-aos-delay="200">
                 <img src="https://picsum.photos/400/600?random=3" alt="Ảnh 3"> <!-- THAY LINK ẢNH TẠI ĐÂY -->
                 <div class="photo-overlay"><h3>Hạnh phúc ❤️</h3></div>
             </div>
             <!-- Ảnh 4 -->
-            <div class="photo-item" data-aos="fade-up" data-aos-delay="300">
+            <div class="4.jpg" data-aos-delay="300">
                 <img src="https://picsum.photos/400/600?random=4" alt="Ảnh 4"> <!-- THAY LINK ẢNH TẠI ĐÂY -->
                 <div class="photo-overlay"><h3>Cuốn hút 🌟</h3></div>
             </div>
